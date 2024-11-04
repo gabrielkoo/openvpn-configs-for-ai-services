@@ -21,7 +21,7 @@ That's it!
 ## AI Services Included in This Repository
 
 AI Service | Sub Services | Details
----|---
+---|---|---
 Apple Intelligence | iCloud Private Relay, Writing Tools (iOS 18.1), ChatGPT Integration (iOS 18.2) | [Apple's `17.0.0.0/8` IPv4 Prefix](https://support.apple.com/en-us/101555#:~:text=Yes-,Firewalls,-If%20your%20firewall) and [Apple Intelligence, Siri, and Search](https://support.apple.com/en-us/101555#:~:text=Yes-,Apple%20Intelligence,-%2C%20Siri%2C%20and%20Search)
 Google Gemini | Gemini Web App, NotebookLM | Condensed from <https://www.gstatic.com/ipranges/goog.json>.
 OpenAI | ChatGPT.com, platform.openai.com | By Trial and Error.
