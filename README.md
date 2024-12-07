@@ -2,6 +2,8 @@
 
 This repository provides sample OpenVPN configuration files designed to facilitate access to AI services such as **Apple Intelligence**, **Google Gemini/NotebookLM**and **OpenAI** from *regions where these services are not restricted*, with OpenVPN configuration profiles utilizing Include Tunneling. These configuration files can help users securely connect and access AI resources through **split tunneling**.
 
+See also: <https://github.com/gabrielkoo/wireguard-configs-for-ai-services> if you are using OpenVPN instead.
+
 ## Why Bother Use Include Tunneling?
 
 You may have wondered - *I could have just used a normal OpenVPN config profile!*
